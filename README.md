@@ -1,4 +1,4 @@
-# company-profile
+# Welcome to Chipintelli's site on Github
 
 Welcome to Chipintelli！ 
 
