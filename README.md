@@ -9,7 +9,7 @@ Chipintelli, established in 2015 and headquartered in Chengdu, is a leading AI v
 We have launched 3 generation of AI voice recognition chips since 2016. Below is an overview of our chip roadmap. 
 <img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/bb1356f9-7342-4f86-a825-bbc08ea283d8" />
 Powered by fully in-house algorithms, Chipintelli delivers end-to-end voice-interaction capabilities: single-mic and array beam-forming, noise suppression, echo cancellation, ultra-low-power wake-up, on-device semantic parsing, and voice-print ID. Our proprietary “local self-learning” engine lets users add or adapt commands on the fly, solving dialect and personalization issues without cloud help.
-**Recognition accuracy exceeds 97 % and recognition range can reache beyond 5 meters, setting the industry benchmark.**
+**Recognition accuracy exceeds 97 % and recognition range can reach beyond 5 meters, setting the industry benchmark.**
 
 # Applications 
 Based on the chipintelli's self-developed AI speech chips and AI algorithms, our chip can be applied to a wide range of fields, including but not limited to **smart homes, smart appliances, smart lighting, smart toys, smart robots, smart cars etc.,**
