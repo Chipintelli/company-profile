@@ -20,3 +20,5 @@ Based on the chipintelli's self-developed AI speech chips and AI algorithms, our
 **Website**: https://www.chipintelli.com/en/ <br>
 **Documentation Center**: https://document.chipintelli.com/en  <br>
 **Developer portal**: https://aiplatform.chipintelli.com/  <br>
+# Contact (for general Q&A）
+Globalsupport@chipintelli.com
